@@ -1,5 +1,3 @@
-# kurbernetes-ingress
-
 # Kubernetes Ingress
 
 ## Installer Kind et créer votre premier cluster
